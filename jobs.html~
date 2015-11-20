@@ -64,7 +64,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-lg-10 col-lg-offset-1">
-                    <h1><strong>公司介绍</strong></h1>
+                    <h3><strong>公司介绍</strong></h3>
 										北京一维弦（Ewaybot）科技有限公司由卡耐基梅隆大学机器人学院及机械工程系博士成立，致力于针对儿童市场的教育类机器人的研发，已拿到知名教育集团天使轮百万级投资。团队成员均毕业于国内外一流名校，除技术经验外，拥有丰富的创业及教育行业从业经验。</p>
                 </div>
             </div>
@@ -77,7 +77,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-lg-10 col-lg-offset-1">
-                    <h1><strong>我们提供</strong></h1>
+                    <h3><strong>我们提供：</strong></h3>
 													
 											    A轮前薪资10k-20k，A轮后大幅提高</p>
 													全职员工五险一金</p>
@@ -100,7 +100,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-lg-10 col-lg-offset-1">
-										<h3><strong>我们需要</strong></h3>
+										<h3><strong>我们需要：</strong></h3>
                 </div>
             </div>
             <!-- /.row -->
@@ -216,15 +216,22 @@
         <div class="container">
             <div class="row">
                 <div class="col-lg-10 col-lg-offset-1">
-                    <h2><strong>IT工程师</strong></h2>
+                    <h2><strong>软件工程师</strong></h2>
                     <h4>要求：</h4>
 <!--                     <p >有一定的机器人运动学和人工智能知识，一定的编程功底，有实际项目经验者优先，有RoboCup等重要机器人比赛参赛经验者优先</p>
                     <h4>具有以下一项或多项能力：</h4> -->
                     <ol>
-                        <li><p>参与公司服务器搭建与维护、git维护、网络及IT技术支持服务</p></li>
-                        <li><p>熟悉各类计算机操作系统安装、硬件软件维护</p></li>
-                        <li><p>独立完成网络的设备配置与管理及快速排错能力</p></li>
-                        <li><p>熟练使用Linux系统，熟练掌握Python、Java等编程语言</p></li>
+                        <li><p>熟悉Linux操作系统，熟悉计算机操作系统的原理</p></li>
+                        <li><p>熟悉线程管理及同步</p></li>
+                        <li><p>熟悉Linux下进程管理，进程通信的方案及实现方法</p></li>
+                        <li><p>熟练掌握Python，C/C++等编程语言， 能够熟练使用C/C++完成核心模块并和Python对接</p></li>
+												<li><p>熟悉基本的设计模式，以及有良好的软件模块化设计能力</p></li>
+                   </ol>
+                    <h4>工作内容：</h4>
+                    <ol>
+                        <li><p>与研发和生产团队配合，负责产品的机械结构设计、材料选型及部分测试工作</p></li>
+                        <li><p>对标准件选型，风险和成本控制提出方案</p></li>
+                        <li><p>硬件测试和量产化设计</p></li>
                    </ol>
                 </div>
             </div>
